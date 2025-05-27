@@ -1,6 +1,4 @@
-:start_line:1
--------
-![Banner](banner.png)
+![Banner](github_banner.jpg)
 
 # 👋 Whats up, I'm Abdelrahman!
 
