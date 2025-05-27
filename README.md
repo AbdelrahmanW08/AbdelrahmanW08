@@ -4,15 +4,20 @@
 
 I'm a software developer passionate about making lives easier with technology.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelrahman-wm/)
+<p>
+  <a href="https://github.com/AbdelrahmanW08/AbdelrahmanW08/blob/main/resume.pdf">
+    <img src="https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelrahman-wm/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-## Projects
+## 💻 Projects
 
-*   Project 1: A web application built with React and Node.js.
-*   Project 2: A Python script for data analysis.
+*   📚 Netflix Clone: A MERN stack netflix clone for learning purposes.
+*   🔍 Termhint: A full-stack application to help newcomers search for synonyms.
+*   🍔 Image Classification: Python Tensorflow machine learning model to classify different foods.
 
-## Skills
+## 🔨 Skills
 
-*   Programming Languages: Python, JavaScript, HTML, CSS
-*   Frameworks/Libraries: React, Node.js
-*   Tools: Git, Docker, VS Code
