@@ -6,7 +6,7 @@ I'm a software developer passionate about making lives easier with technology.
 
 <p>
   <a href="https://github.com/AbdelrahmanW08/AbdelrahmanW08/blob/main/resume.pdf">
-    <img src="https://icons.veryicon.com/png/o/miscellaneous/general-icon-library/resume-7.png" />
+    <img style= " object-fit: cover; width: 48px; height: 48px;" src="https://cdn.iconscout.com/icon/free/png-512/free-resume-icon-download-in-svg-png-gif-file-formats--cv-profile-biodata-portfolio-jobs-job-services-pack-carriers-icons-1650445.png?f=webp&w=256" />
   </a>
   <a href="https://www.linkedin.com/in/abdelrahman-wm/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
