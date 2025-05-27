@@ -2,11 +2,9 @@
 
 # 👋 Whats up, I'm Abdelrahman!
 
-## About Me
+I'm a software developer passionate about making lives easier with technology.
 
-Welcome to my GitHub profile! I'm Abdelrahman, a software developer passionate about building innovative and impactful solutions.
-
-[📄](resume.pdf)  [LinkedIn](https://www.linkedin.com/in/abdelrahman-wm/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdelrahman-wm/)
 
 ## Projects
 
