@@ -4,7 +4,7 @@
 
 *   I'm a software developer passionate about making lives easier with technology.
 *   I’m currently working on a **full-stack chat application**.
-*   Know about my experiences: [Resume](https://github.com/AbdelrahmanW08/AbdelrahmanW08/blob/main/resume.pdf)
+*   Know about my experiences: [Resume](https://abdelrahmanw08.github.io/pw/resume.pdf)
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,mongodb,expressjs,react,nodejs,postgres)
 
